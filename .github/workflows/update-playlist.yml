@@ -25,9 +25,6 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Debug – list files
-        run: ls -la
-
       - name: Run playlist generator
         run: python generate_playlist.py
 
