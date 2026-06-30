@@ -1,0 +1,1197 @@
+#EXTM3U
+
+# --- Tamil Local ---
+#EXTINF:-1 group-title="Tamil Local",SG Colors Tamil
+https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=colortamil
+#EXTINF:-1 group-title="Tamil Local",SG ZEE TAMIL1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.m3u8
+#EXTINF:-1 group-title="Tamil Local",SG STAR VIJAY1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/STAR%20VIJAY.m3u8
+#EXTINF:-1 group-title="Tamil Local",SG SUN TV1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/SUN%20TV.m3u8
+#EXTINF:-1 group-title="Tamil Local",SG STAR VIJAY3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
+#EXTINF:-1 group-title="Tamil Local",SG VASANTHAM 1
+http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+#EXTINF:-1 group-title="Tamil Local",SG MEDIACORP ENTERTAINMENT TAMIL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+#EXTINF:-1 group-title="Tamil Local",SG VASANTHAM 2
+http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+#EXTINF:-1 group-title="Tamil Local",IN SNXT Sun Life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Local",SNXT Adithya TV
+https://public.kliv.fun/zs2020/Suntv/manifest.mpd?id=194407
+#EXTINF:-1 group-title="Tamil Local",SUN TV
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+#EXTINF:-1 group-title="Tamil Local",SUN TV
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Local",SUN NEO
+https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Local",SUN BANGALA
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Local",SUN MARATHI
+https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Local",sonic Tamil
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd
+#EXTINF:-1 group-title="Tamil Local",SONY YAY TAMIL
+https://public.kliv.fun/Mac21o/play.php?id=1097
+#EXTINF:-1 group-title="Tamil Local",SONIC TAMIL
+https://public.kliv.fun/Mac21o/play.php?id=11802
+#EXTINF:-1 group-title="Tamil Local",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sirippoli TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",SNXT SUN TV
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1 group-title="Tamil Local",ZEE TAMIL
+http://185.160.192.64:80/live/CWX8108/DFR9274/339355.ts
+#EXTINF:-1 group-title="Tamil Local",JAYA TV
+http://185.160.192.64:80/live/CWX8108/DFR9274/339396.ts
+#EXTINF:-1 group-title="Tamil Local",JAYA MAX
+http://185.160.192.64:80/live/CWX8108/DFR9274/339478.ts
+#EXTINF:-1 group-title="Tamil Local",RAJ TV
+https://tinyurl.com/yaarokayaar1110-channel57
+#EXTINF:-1 group-title="Tamil Local",RAJ DIGITAL PLUS
+https://tinyurl.com/yaarokayaar1110-channel58
+#EXTINF:-1 group-title="Tamil Local",Star Vijay-TWC
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=380952|User-Agent=RANAPK
+#EXTINF:-1 group-title="Tamil Local",ADITHYA TV
+https://ucdn.starhubgo.com/bpk-tv/ADITHYATV/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Local",COLORS Tamil
+https://ucdn.starhubgo.com/bpk-tv/COLORSTamilHD/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Local",Sun TV
+https://ucdn.starhubgo.com/bpk-tv/SunTV/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Local",Vasantham
+https://ucdn.starhubgo.com/bpk-tv/Mediacorp_Vasantham_DASH/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Local",Vijay TV
+https://ucdn.starhubgo.com/bpk-tv/VijayTV/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Local",Zee Tamil
+https://ucdn.starhubgo.com/bpk-tv/ZeeTamil/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Local",Succes TV Tamil
+https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil TV
+https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Vasantham TV
+https://stream.onecloudlive.in/dhandapani/vasanthamtv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",SK TV
+https://stream.galaxyott.live/live/sktv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Rock TV
+https://apis.avmediawork.in/tvhls/rocktv.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil Oli TV
+https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Aadvik TV
+https://ipcloud.live/sachintv/aadviktv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",RJ Tamil
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Apple TV TAMILNADU BY TWC
+https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Karthick TV
+https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Rainbow TV TAMILNADU BY TWC
+https://notvstream.in/rainbowtv/rainbowtv.m3u8
+#EXTINF:-1 group-title="Tamil Local",Shalini TV TAMILNADU BY TWC
+https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil Star TV
+http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Rasi Tamil
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",CSK TV
+http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil Magan TV
+http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Thirumalai TV TAMILNADU BY TWC
+https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sri Thangamalai Murugan Tv
+http://server3.sscloud7.in:1935/stmtv/srithangamalaimurugantv/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Jayam TV TAMILNADU BY TWC
+https://view.rcserver.in/tmp_hls10/jayamtvTAMILNADU BY TWC/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamilnesan TV
+https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sentamil TV
+https://view.rcserver.in/tmp_hls15/senthamiltv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",TAMILNADU BY TWC TV
+https://view.rcserver.in/tmp_hls16/TAMILNADU BY TWCtv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",TAMILNADU BY TWC City
+https://view.rcserver.in/tmp_hls17/TAMILNADU BY TWCcity/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",BK TV
+https://view.apserver.in/tmp_hls3/bktv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Thentamil TV
+https://gem.inet.moe/hls/thentamil.m3u8
+#EXTINF:-1 group-title="Tamil Local",Thendral TV TAMILNADU BY TWC
+https://sscloud7.com/live/thendraltv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",TM: Aastha Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427726.ts?channelId=89866&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Adithya TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427728.ts?channelId=43404&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Angel TV FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427729.ts?channelId=89860&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Angel TV FHD UK
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427730.ts?channelId=132355&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Animal PlanetTamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427731.ts?channelId=89826&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Bigg Boss Tamil 9 FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427733.ts?channelId=132411&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: CN+ Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427734.ts?channelId=89875&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Colors Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427738.ts?channelId=43408&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Colors Tamil UK
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427739.ts?channelId=89822&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Discovery Channel Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427742.ts?channelId=43516&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Discovery Channel Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427743.ts?channelId=132513&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: History TV18 Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427747.ts?channelId=89842&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: IBC Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427751.ts?channelId=89821&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Janam TV Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427754.ts?channelId=89848&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Jaya Max
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427755.ts?channelId=43410&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Jaya TV FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427756.ts?channelId=43517&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Jaya plus
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427757.ts?channelId=85932&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Kalaignar TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427762.ts?channelId=43520&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: MK TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427766.ts?channelId=89846&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Madha TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427767.ts?channelId=85934&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Makkal TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427769.ts?channelId=89839&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Mega 24
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427770.ts?channelId=132363&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",Raj Musix Telugu
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/446448.ts?channelId=43462&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Mega Musiq
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427771.ts?channelId=132361&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Mega TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427772.ts?channelId=89829&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Peppers TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427781.ts?channelId=23125&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Polimer TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427784.ts?channelId=85931&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Raj Digital Plus
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427788.ts?channelId=43415&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Raj Musix
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427789.ts?channelId=43416&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Raj TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427791.ts?channelId=43417&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Sirippoli TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427800.ts?channelId=43521&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Sonic Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427802.ts?channelId=89864&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Star Vijay FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427804.ts?channelId=43419&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Star Vijay FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427805.ts?channelId=132400&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Star Vijay Super
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427806.ts?channelId=43518&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Sun Life
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427807.ts?channelId=89833&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Sun TV FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427810.ts?channelId=43421&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Sun TV FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427811.ts?channelId=132404&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Sun TV UK
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427812.ts?channelId=89823&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Tamilan Television
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427813.ts?channelId=89867&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Tata Play Toons+ Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427814.ts?channelId=132371&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Travel XP Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427817.ts?channelId=89862&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Vasanth TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427820.ts?channelId=89835&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Vendhar TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427822.ts?channelId=43422&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Zee Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427824.ts?channelId=128481&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",TM: Zee Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427825.ts?channelId=43423&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Tamil Local",Aastha Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1942.ts
+#EXTINF:-1 group-title="Tamil Local",Adithya TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1944.ts
+#EXTINF:-1 group-title="Tamil Local",Angel TV FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1945.ts
+#EXTINF:-1 group-title="Tamil Local",Angel TV FHD UK
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1946.ts
+#EXTINF:-1 group-title="Tamil Local",Animal PlanetTamil FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1947.ts
+#EXTINF:-1 group-title="Tamil Local",Bigg Boss Tamil 9 FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1949.ts
+#EXTINF:-1 group-title="Tamil Local",CN+ Tamil FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1950.ts
+#EXTINF:-1 group-title="Tamil Local",Colors Tamil FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1954.ts
+#EXTINF:-1 group-title="Tamil Local",Colors Tamil UK
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1955.ts
+#EXTINF:-1 group-title="Tamil Local",Discovery Channel Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1958.ts
+#EXTINF:-1 group-title="Tamil Local",Discovery Channel Tamil FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1959.ts
+#EXTINF:-1 group-title="Tamil Local",History TV18 Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1963.ts
+#EXTINF:-1 group-title="Tamil Local",IBC Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1967.ts
+#EXTINF:-1 group-title="Tamil Local",Janam TV Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1970.ts
+#EXTINF:-1 group-title="Tamil Local",Jaya Max
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1971.ts
+#EXTINF:-1 group-title="Tamil Local",Jaya TV FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1972.ts
+#EXTINF:-1 group-title="Tamil Local",Jaya plus
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1973.ts
+#EXTINF:-1 group-title="Tamil Local",Kalaignar TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1978.ts
+#EXTINF:-1 group-title="Tamil Local",MK TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1982.ts
+#EXTINF:-1 group-title="Tamil Local",Madha TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1983.ts
+#EXTINF:-1 group-title="Tamil Local",Makkal TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1985.ts
+#EXTINF:-1 group-title="Tamil Local",Mega 24
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1986.ts
+#EXTINF:-1 group-title="Tamil Local",Mega Musiq
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1987.ts
+#EXTINF:-1 group-title="Tamil Local",Raj Musix Telugu
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2088.ts
+#EXTINF:-1 group-title="Tamil Local",Mega TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1988.ts
+#EXTINF:-1 group-title="Tamil Local",Peppers TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/1997.ts
+#EXTINF:-1 group-title="Tamil Local",Polimer TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2000.ts
+#EXTINF:-1 group-title="Tamil Local",Raj Digital Plus
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2004.ts
+#EXTINF:-1 group-title="Tamil Local",Raj Musix
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2005.ts
+#EXTINF:-1 group-title="Tamil Local",Raj TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2007.ts
+#EXTINF:-1 group-title="Tamil Local",Sirippoli TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2016.ts
+#EXTINF:-1 group-title="Tamil Local",Sonic Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2018.ts
+#EXTINF:-1 group-title="Tamil Local",Star Vijay FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2020.ts
+#EXTINF:-1 group-title="Tamil Local",Star Vijay FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2021.ts
+#EXTINF:-1 group-title="Tamil Local",Star Vijay Super
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2022.ts
+#EXTINF:-1 group-title="Tamil Local",Sun Life
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2023.ts
+#EXTINF:-1 group-title="Tamil Local",Sun TV FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2026.ts
+#EXTINF:-1 group-title="Tamil Local",Sun TV FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2027.ts
+#EXTINF:-1 group-title="Tamil Local",Sun TV UK
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2028.ts
+#EXTINF:-1 group-title="Tamil Local",Tamilan Television
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2029.ts
+#EXTINF:-1 group-title="Tamil Local",Tata Play Toons+ Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2030.ts
+#EXTINF:-1 group-title="Tamil Local",Travel XP Tamil
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2033.ts
+#EXTINF:-1 group-title="Tamil Local",Vasanth TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2036.ts
+#EXTINF:-1 group-title="Tamil Local",Vendhar TV
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2038.ts
+#EXTINF:-1 group-title="Tamil Local",Zee Tamil FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2040.ts
+#EXTINF:-1 group-title="Tamil Local",Zee Tamil FHD
+https://iptv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/2041.ts
+#EXTINF:-1 group-title="Tamil Local",AlliTamil HQ HDRip - - x264 - AAC - 1GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2122.mkv
+#EXTINF:-1 group-title="Tamil Local",AnimalTamil HQ HDRip - - x264 -- 3 3GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2123.mkv
+#EXTINF:-1 group-title="Tamil Local",AyalaanTamil WEB-DL - - AVC -- 3 8GB - HC-ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2131.mkv
+#EXTINF:-1 group-title="Tamil Local",Captain Hook The Cursed TidesHQ HDRip - - x264 --- 1 5GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2132.mkv
+#EXTINF:-1 group-title="Tamil Local",Captain MillerTamil TRUE WEB-DL - - AVC -- 6 6GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2133.mkv
+#EXTINF:-1 group-title="Tamil Local",CaptainTamil HDRip - - x264 - AAC - 2 5GB - HC-ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2134.mkv
+#EXTINF:-1 group-title="Tamil Local",Chandramukhi 2Tamil WEB-DL - HQ - AVC -- 3 8GB - HC-ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2135.mkv
+#EXTINF:-1 group-title="Tamil Local",CobraTamil HDRip - - x264 - AAC - 3GB - HC-ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2136.mkv
+#EXTINF:-1 group-title="Tamil Local",Couple FriendlyTamil HQ HDRip - - x265 --- 1 7GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2137.mkv
+#EXTINF:-1 group-title="Tamil Local",Dhurandhar The RevengeTamil HQ PreDVD - - x264 - HQ Clean - AAC - 2GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2141.mkv
+#EXTINF:-1 group-title="Tamil Local",DinosaursTamil TRUE WEB-DL - - AVC -- 2 9GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2142.mkv
+#EXTINF:-1 group-title="Tamil Local",FridayTamil HQ HDRip - -- x265 -- 1 4GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2147.mkv
+#EXTINF:-1 group-title="Tamil Local",FunkyTamil HQ HDRip - -- x265 -- 1 6GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2148.mkv
+#EXTINF:-1 group-title="Tamil Local",HoneyTamil HQ HDRip - -- x265 -- 1 2GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2157.mkv
+#EXTINF:-1 group-title="Tamil Local",JailerTamil v2 TRUE WEB-DL - - AVC -- 3GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2168.mkv
+#EXTINF:-1 group-title="Tamil Local",JawanTamil HQ HDRip - --- 1 7GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2169.mkv
+#EXTINF:-1 group-title="Tamil Local",JoeTamil HQ HDRip - - x264 -- 2 7GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2170.mkv
+#EXTINF:-1 group-title="Tamil Local",Kaathuvaakula Rendu KaadhalTamil HDRip - - x264 - AAC - 2 7GB - HC-ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2172.mkv
+#EXTINF:-1 group-title="Tamil Local",Kadamaiyai SeiTamil TRUE WEB-DL ---- 7 4GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2173.mkv
+#EXTINF:-1 group-title="Tamil Local",Kadhal Reset RepeatTamil HQ PreDVD - - x264 - HQ Clean - AAC - 1 4GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2174.mkv
+#EXTINF:-1 group-title="Tamil Local",Kenatha KanomTamil HQ PreDVD - - x264 - HQ Clean - AAC - 2 2GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2175.mkv
+#EXTINF:-1 group-title="Tamil Local",King Of KothaTamil HQ HDRip - - x264 -- 2 6GB - ESu
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2176.mkv
+#EXTINF:-1 group-title="Tamil Local",KombuseeviTamil TRUE WEB-DL - - AVC -- 2 9GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/3049.mkv
+#EXTINF:-1 group-title="Tamil Local",KushiTamil WEB-DL - - AVC -- 3GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2177.mkv
+#EXTINF:-1 group-title="Tamil Local",LeoTamil HQ HDRip - --- 1 7GB - HC-ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2178.mkv
+#EXTINF:-1 group-title="Tamil Local",Little Miss RawtherTamil TRUE WEB-DL - - AVC -- 2 4GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2180.mkv
+#EXTINF:-1 group-title="Tamil Local",LockdownTamil HQ HDRip - - x264 -- 1 2GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2181.mkv
+#EXTINF:-1 group-title="Tamil Local",Made in KoreaTamil HQ HDRip - - x264 -- 2 6GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2182.mkv
+#EXTINF:-1 group-title="Tamil Local",Mark AntonyTamil WEB-DL - - AVC -- 3GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2183.mkv
+#EXTINF:-1 group-title="Tamil Local",MessengerTamil TRUE WEB-DL - - AVC - UNTOUCHED -- 1 5GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2185.mkv
+#EXTINF:-1 group-title="Tamil Local",Mustafa MustafaTamil HQ PreDVD - - x264 - HQ Clean - AAC - 2 2GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2194.mkv
+#EXTINF:-1 group-title="Tamil Local",My LordTamil HQ HDRip - -- x265 -- 1 5GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2195.mkv
+#EXTINF:-1 group-title="Tamil Local",Oh ButterflyTamil HQ PreDVD - - x264 - HQ Clean - AAC - 1 4GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2198.mkv
+#EXTINF:-1 group-title="Tamil Local",Paatti Sollai ThattatheTamil TRUE WEB-DL - - AVC -- 2 7GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2199.mkv
+#EXTINF:-1 group-title="Tamil Local",Queen ElizabethTamil TRUE WEB-DL - - AVC -- 1 3GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2208.mkv
+#EXTINF:-1 group-title="Tamil Local",SabdhamTamil HQ HDRip - - x265 --- 1 7GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/3050.mkv
+#EXTINF:-1 group-title="Tamil Local",Seetha PayanamTamil HQ HDRip - -- x265 -- 1 7GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2212.mkv
+#EXTINF:-1 group-title="Tamil Local",Sillunu Oru KadhalTamil HQ HDRip - - x265 --- 2GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2213.mkv
+#EXTINF:-1 group-title="Tamil Local",Sita RamamTamil TRUE WEB-DL - HQ - AVC -- 6 2GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2214.mkv
+#EXTINF:-1 group-title="Tamil Local",ThiruchitrambalamTamil HDRip - - x264 - AAC - 2 6GB - HC-ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2225.mkv
+#EXTINF:-1 group-title="Tamil Local",VadamTamil HQ PreDVD - - x264 - HQ Clean - AAC - 1 4GB
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2228.mkv
+#EXTINF:-1 group-title="Tamil Local",VeemanTamil HQ HDRip - - x264 -- 2 8GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2229.mkv
+#EXTINF:-1 group-title="Tamil Local",VivesiniTamil HQ HDRip - --- 1 6GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2230.mkv
+#EXTINF:-1 group-title="Tamil Local",YogidaTamil HQ HDRip - -- x265 -- 1 7GB - ESub
+https://iptv.tamilwebcast.com/movie/TWC-FAMILY/TWC-FAMILY/2233.mkv
+#EXTINF:-1 group-title="Tamil Local",sonic Tamil
+http://103.159.180.34:5001/live/290.m3u8
+#EXTINF:-1 group-title="Tamil Local",Star Vijay
+http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_VIJAY_HD&uid=999&pass=999
+#EXTINF:-1 group-title="Tamil Local",Jaya Plus
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Jaya TV
+http://103.159.180.34:5001/live/419.m3u8
+#EXTINF:-1 group-title="Tamil Local",Jaya Max
+http://103.159.180.34:5001/live/420.m3u8
+#EXTINF:-1 group-title="Tamil Local",Colors Tamil
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_TAMIL_HD&uid=999&pass=999
+#EXTINF:-1 group-title="Tamil Local",Raj Pariwar
+http://103.159.180.34:5001/live/533.m3u8
+#EXTINF:-1 group-title="Tamil Local",D Tamil
+http://202.70.146.135:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",History TV18Tamil
+http://103.159.180.34:5001/live/579.m3u8
+#EXTINF:-1 group-title="Tamil Local",Zee Tamil
+http://103.159.180.34:5001/live/628.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Life
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SUN_LIFE&uid=999&pass=999
+#EXTINF:-1 group-title="Tamil Local",Raj Digital Plus
+http://103.159.180.34:5001/live/683.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Gemini Life
+https://mumbai-edge.smartplaytv.in/GeminiLife/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Raj TV
+http://103.159.180.34:5001/live/707.m3u8
+#EXTINF:-1 group-title="Tamil Local",Makkal TV
+http://103.159.180.34:5001/live/708.m3u8
+#EXTINF:-1 group-title="Tamil Local",Adithya TV
+http://103.159.180.34:5001/live/709.m3u8
+#EXTINF:-1 group-title="Tamil Local",Vasanth TV
+http://103.159.180.34:5001/live/727.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Gemini Comedy
+https://mumbai-edge.smartplaytv.in/GeminiComedy/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Udaya Comedy
+http://103.159.180.34:5001/live/733.m3u8
+#EXTINF:-1 group-title="Tamil Local",Raj Musix
+http://103.159.180.34:5001/live/748.m3u8
+#EXTINF:-1 group-title="Tamil Local",Peppers TV
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Travelxp Tamil
+http://103.159.180.34:5001/live/814.m3u8
+#EXTINF:-1 group-title="Tamil Local",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Vendhar TV
+https://cdn-3.pishow.tv/live/1271/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sony Yay Tamil
+http://103.159.180.34:5001/live/873.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun TV
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Gemini
+http://103.159.180.34:5001/live/897.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Surya
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Udaya
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_UDAYA_TV&uid=999&pass=999
+#EXTINF:-1 group-title="Tamil Local",Vijay Super
+http://202.70.146.135:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Animal PlanetTamil
+http://103.159.180.34:5001/live/1219.m3u8
+#EXTINF:-1 group-title="Tamil Local",Nimbark TV
+https://legitpro.co.in/nimbarktv/nimbarktvbox/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Gomantak TV
+http://103.159.180.34:5001/live/1273.m3u8
+#EXTINF:-1 group-title="Tamil Local",Zee Tamil
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetamil/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Colors Tamil
+http://202.70.146.135:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Madha TV
+https://mumt02.tangotv.in/MADHATV/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Surya Comedy
+http://103.159.180.34:5001/live/1662.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Bangla
+http://103.159.180.34:5001/live/1669.m3u8
+#EXTINF:-1 group-title="Tamil Local",NK TV Plus
+https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+#EXTINF:-1 group-title="Tamil Local",Divyalok TV
+http://103.159.180.34:5001/live/2322.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Marathi
+http://103.159.180.34:5001/live/2424.m3u8
+#EXTINF:-1 group-title="Tamil Local",NK TV Bangla
+https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamilan Television
+https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Velicham Tv
+https://mumt05.tangotv.in/VALICHAMPLUS/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil Janam
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Thanthi One
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Captain
+https://mumt01.tangotv.in/CAPTAIN/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Sun Neo
+http://103.159.180.34:5001/live/3088.m3u8
+#EXTINF:-1 group-title="Tamil Local",India 24x7 Aap Tak TV
+https://itassist.one/livetv/india24x7/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil Naaptol
+http://103.159.180.34:5001/live/3175.m3u8
+#EXTINF:-1 group-title="Tamil Local",Vijay Super
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_VIJAY_SUPER_HD&uid=999&pass=999
+#EXTINF:-1 group-title="Tamil Local",Vijay Takkar
+http://103.159.180.34:5001/live/3269.m3u8
+#EXTINF:-1 group-title="Tamil Local",Rock TV
+https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Discovery Tamil
+http://103.159.180.34:5001/live/3430.m3u8
+#EXTINF:-1 group-title="Tamil Local",DiscoveryTamil
+http://103.159.180.34:5001/live/3445.m3u8
+#EXTINF:-1 group-title="Tamil Local",Animal Planet Tamil
+http://103.159.180.34:5001/live/3450.m3u8
+#EXTINF:-1 group-title="Tamil Local",Swastik TV
+https://server.playontv.in/swastiktv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Duck TV
+https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Local",Knock TV
+http://103.159.180.34:5001/live/3555.m3u8
+#EXTINF:-1 group-title="Tamil Local",Angel TV
+https://cdn-7.pishow.tv/live/453/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Velicham TV
+https://cdn-3.pishow.tv/live/461/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Swaraj Express SMBC
+https://cdn-2.pishow.tv/live/477/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Vasanth TV
+https://cdn-3.pishow.tv/live/1247/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamilan TV
+https://cdn-3.pishow.tv/live/1259/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",Madha TV
+https://cdn-3.pishow.tv/live/1265/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",151 Swaraj Express SMBC
+https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8?ads.channel=6435&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783118~exp=1782804718~acl=!*/fta/swarajexpresssmbc/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_151_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_151_-1~hmac=d0d302540edc8195c1623e36a2e1b45aea15080ea4f0b7a31a3fb9c7565e6349&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SwarajExpressSMBC&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="Tamil Local",144 Sri Sankara Tamil
+https://d2gvyg6lvauoko.cloudfront.net/230226/srisankaratamil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783134~exp=1782804734~acl=!*/230226/srisankaratamil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_144_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_144_-1~hmac=5536b4fbf92d360fe265f67edd0ec0ffd6c238f945a7e51dd3ea3b810b768985&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SriSankaraTamil&ads.language=TAM&ads.user=0
+#EXTINF:-1 group-title="Tamil Local",215 Madha TV
+https://yuppnimresmum.akamaized.net/120723/smil:madhatv1.smil/playlist.m3u8?ads.channel=4001&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783134~exp=1782804734~acl=!*/120723/smil:madhatv1.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_215_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_215_-1~hmac=76ad22b8e37867fccce357ba14876b7dbc7f665c14f08b2a9d3b388afe4edc0b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=MadhaTV&ads.language=TAM&ads.user=0
+#EXTINF:-1 group-title="Tamil Local",177 Angel TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:angeltv.smil/playlist.m3u8?ads.channel=2665&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783135~exp=1782804735~acl=!*/181224/smil:angeltv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_177_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_177_-1~hmac=411ecff9a3c93cb294fdde7986d72eec51a94cc64983b0cb5298c3a633f3d3aa&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=AngelTV&ads.language=TAM&ads.user=0
+#EXTINF:-1 group-title="Tamil Local",202 Swasthik TV
+https://yuppnimresmum.akamaized.net/28072023/smil:swasthiktv.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783135~exp=1782804735~acl=!*/28072023/smil:swasthiktv.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_202_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_202_-1~hmac=5116cd05ffc661d9561c4ce6adbf13cf420a6ea5b09f7795f50d842c634d2c1f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPIRITUAL&ads.channel_name=SwasthikTV&ads.language=TAM&ads.user=0
+#EXTINF:-1 group-title="Tamil Local",113 Peppers TV
+https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?ads.channel=6644&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783137~exp=1782804737~acl=!*/fta/peppers/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_113_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_113_-1~hmac=d571bdc6f840fdec6487ab8d27b314ca71d79f53bb9acd5574a9c74009363613&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=PeppersTV&ads.language=TAM&ads.user=0
+#EXTINF:-1 group-title="Tamil Local",Angel TV
+https://mumt01.tangotv.in/ANGELTVHD/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",DD Tamil
+https://mumt04.tangotv.in/m18aqlK4DDTAMIL/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Makkal TV
+https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Peppers TV
+https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Polimer TV
+https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Raj Musix Kannada
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Raj Musix Malayalam
+https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Raj Musix Telugu
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Swaraj Express SMBC
+https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil Janam
+https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamil Ratna
+https://mumt04.tangotv.in/m18aqlK4TAMILRATNAM/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Tamilan TV
+https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Thanthi One
+https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Vasanth TV
+https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Vendhar TV
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",456 Hello Tamil Tv
+https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
+#EXTINF:-1 group-title="Tamil Local",Knock TV Punjabi
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
+#EXTINF:-1 group-title="Tamil Local",K TV Bangla
+https://stream.ottlive.co.in/tribetv/index.m3u8
+
+# --- Tamil Movies ---
+#EXTINF:-1 group-title="Tamil Movies",SNXT KTV
+https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Movies",SNXT KTV
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Movies",KTV
+https://ucdn.starhubgo.com/bpk-tv/KTVHD/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Movies",Sun Gemini Movies
+https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
+#EXTINF:-1 group-title="Tamil Movies",KTV Bangla
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1 group-title="Tamil Movies",NKTV Bangla
+https://cdn-6.pishow.tv/live/10012/master.m3u8
+#EXTINF:-1 group-title="Tamil Movies",NKTV Plus
+https://cdn-6.pishow.tv/live/10013/master.m3u8
+#EXTINF:-1 group-title="Tamil Movies",312 NKTV
+https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1782783162~exp=1782804762~acl=!*/230226/nktv/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_312_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_312_-1~hmac=0d200a948e2dc2d236e51a12bc7fb9f8653dc960f72f189789b8f3cb70b2a28d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NKTV&ads.language=ASS&ads.user=0
+#EXTINF:-1 group-title="Tamil Movies",NKTV Bangla
+https://mumt05.tangotv.in/87NeALx2NKTVPLUS/index.m3u8
+
+# --- Tamil News ---
+#EXTINF:-1 group-title="Tamil News",SUN NEWS
+https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil News",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1 group-title="Tamil News",News7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 group-title="Tamil News",News18 Tamil nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="Tamil News",Polimer News
+http://103.159.180.34:5001/live/636.m3u8
+#EXTINF:-1 group-title="Tamil News",Raj News Malayalam
+http://103.159.180.34:5001/live/650.m3u8
+#EXTINF:-1 group-title="Tamil News",Raj News Kannada
+http://103.159.180.34:5001/live/651.m3u8
+#EXTINF:-1 group-title="Tamil News",Raj News Telugu
+http://103.159.180.34:5001/live/664.m3u8
+#EXTINF:-1 group-title="Tamil News",News7 Tamil
+https://cdn-3.pishow.tv/live/1498/master.m3u8
+#EXTINF:-1 group-title="Tamil News",Raj News 24x7
+http://103.159.180.34:5001/live/767.m3u8
+#EXTINF:-1 group-title="Tamil News",Malaimurasu Seithigal
+https://live-cf-malaimurasu.dailyhunt.in/master.m3u8
+#EXTINF:-1 group-title="Tamil News",Thanthi TV
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF:-1 group-title="Tamil News",Kalaignar Seithigal
+https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+#EXTINF:-1 group-title="Tamil News",Polimer News
+https://cdn-3.pishow.tv/live/1245/master.m3u8
+#EXTINF:-1 group-title="Tamil News",News Tamil 24x7
+https://cdn-3.pishow.tv/live/1433/master.m3u8
+#EXTINF:-1 group-title="Tamil News",Malai Murasu Seithigal
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+#EXTINF:-1 group-title="Tamil News",184 Polimer News
+https://d1rc86nwwc9fag.cloudfront.net/110322/polimernews/playlist.m3u8?hdnts=st=1782783133~exp=1782804733~acl=!*/110322/polimernews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_184_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_184_-1~hmac=769cc50299bc066702a5b76f008c75f8a0ba804c2ca8bcc045ba4dc13f3a5936&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=PolimerNews&ads.language=TAM&ads.user=0
+#EXTINF:-1 group-title="Tamil News",119 Seithigal TV
+https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783133~exp=1782804733~acl=!*/120723/smil:seithagal.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_119_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_119_-1~hmac=551eead78568a0af38e75001dd4d62b552715139540676937a227b838bfeb70d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SeithigalTV&ads.language=TAM&ads.user=0
+#EXTINF:-1 group-title="Tamil News",News 7 Tamil
+https://mumt02.tangotv.in/NEWS7TAMIL/index.m3u8
+#EXTINF:-1 group-title="Tamil News",Polimer News
+https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
+#EXTINF:-1 group-title="Tamil News",Raj News Kannada
+https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
+#EXTINF:-1 group-title="Tamil News",Raj News Malayalam
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
+#EXTINF:-1 group-title="Tamil News",Raj News Telugu
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
+#EXTINF:-1 group-title="Tamil News",Thanthi TV
+https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8
+
+# --- Tamil Music ---
+#EXTINF:-1 group-title="Tamil Music",SNXT Sun Music
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Music",SNXT Sun Music
+https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Music",Sun Music
+https://ucdn.starhubgo.com/bpk-tv/SunMusic/output/manifest.mpd
+#EXTINF:-1 group-title="Tamil Music",Raj Music Telugu
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+#EXTINF:-1 group-title="Tamil Music",Raj Music Malayalam
+http://103.159.180.34:5001/live/739.m3u8
+#EXTINF:-1 group-title="Tamil Music",Raj Music Kannada
+http://103.159.180.34:5001/live/743.m3u8
+#EXTINF:-1 group-title="Tamil Music",Sun Music
+http://202.70.146.135:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="Tamil Music",Sun Gemini Music
+https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
+
+# --- Tamil Kids ---
+#EXTINF:-1 group-title="Tamil Kids",SNXT Chutti TV
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
+#EXTINF:-1 group-title="Tamil Kids",Nick Junior
+http://202.70.146.135:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Tamil Kids",Nick Hindi
+http://202.70.146.135:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Tamil Kids",Disney Channel
+http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Tamil Kids",Disney International
+http://202.70.146.135:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Tamil Kids",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 group-title="Tamil Kids",Epic Kids
+http://103.159.180.34:5001/live/3385.m3u8
+#EXTINF:-1 group-title="Tamil Kids",Cartoon Network Marathi
+http://202.70.146.135:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="Tamil Kids",Chithiram TV
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 group-title="Tamil Kids",48 Cartoon TV Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?ads.channel=6591&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783090~exp=1782804690~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_48_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_48_-1~hmac=4f65f1c692a16d7bbee48bb9c80b9531282f5e1694fed42502c95eba678cc7ee&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=CartoonTVClassics&ads.language=ENG&ads.user=0
+#EXTINF:-1 group-title="Tamil Kids",Cartoon Classics
+https://streams2.sofast.tv/ptnr-khabriya/title-CARTOON-TV-CLASSICS-ENG_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ffbfa4cb-733b-4cd4-93c5-c7423e70f218/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+
+# --- English Movies ---
+#EXTINF:-1 group-title="English Movies",DW English
+https://ucdn.starhubgo.com/bpk-tv/DW/output/manifest.mpd
+#EXTINF:-1 group-title="English Movies",History TV18
+http://202.70.146.135:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="English Movies",Discovery Turbo
+http://202.70.146.135:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="English Movies",Animal Planet English
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 group-title="English Movies",History TV18Telugu
+http://103.159.180.34:5001/live/577.m3u8
+#EXTINF:-1 group-title="English Movies",History TV18Hindi
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English Movies",Sony Pix
+http://202.70.146.135:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="English Movies",CVR English
+https://cdn-2.pishow.tv/live/425/master.m3u8
+#EXTINF:-1 group-title="English Movies",Star Movies
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="English Movies",Star Movies
+http://103.159.180.34:5001/live/1115.m3u8
+#EXTINF:-1 group-title="English Movies",Colors Infinity
+http://103.175.73.12:8080/live/29/29_0.m3u8
+#EXTINF:-1 group-title="English Movies",Nat Geo Wild
+http://202.70.146.135:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="English Movies",Romedy Now
+http://202.70.146.135:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="English Movies",History TV18
+http://103.159.180.34:5001/live/1471.m3u8
+#EXTINF:-1 group-title="English Movies",Haryanvi Hits
+https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="English Movies",Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
+#EXTINF:-1 group-title="English Movies",Bloomberg Originals
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 group-title="English Movies",Bloomberg TV+
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:-1 group-title="English Movies",Star Movies Select
+http://103.159.180.34:5001/live/3276.m3u8
+#EXTINF:-1 group-title="English Movies",DiscoveryHindi
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="English Movies",TLCHindi
+http://202.70.146.135:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="English Movies",Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 group-title="English Movies",Punjabi Hits
+https://cdn-4.pishow.tv/live/1504/master.m3u8
+#EXTINF:-1 group-title="English Movies",66 English TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8?ads.channel=6616&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783090~exp=1782804690~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_66_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_66_-1~hmac=4cbc2a8c978d2d4cd49a4c4ec615fa8335d36b6c6c44abb730ca9b6c334b7953&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=EDUCATION&ads.channel_name=EnglishTV&ads.language=ENG&ads.user=0
+#EXTINF:-1 group-title="English Movies",192 Haryanvi Hits
+https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?ads.channel=6374&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783121~exp=1782804721~acl=!*/28072023/smil:haryanvihits.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_192_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_192_-1~hmac=e272739d8772dd37351866303f652f3ac77fa5a8ef328d9775bfcca836b036b0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=HaryanviHits&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English Movies",Tabbar Hits
+https://stream.ottlive.co.in/tabbarhits/index.m3u8
+#EXTINF:-1 group-title="English Movies",Punjabi Hits
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 group-title="English Movies",Bloomberg TV
+https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-btv-plus-khabriyadigitalmedia.m3u8
+
+# --- English News ---
+#EXTINF:-1 group-title="English News",ABP News India
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+#EXTINF:-1 group-title="English News",Asianet News
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+#EXTINF:-1 group-title="English News",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="English News",DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 group-title="English News",News 18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 Marathi
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",CNN NEWS18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News X
+http://103.159.180.34:5001/live/495.m3u8
+#EXTINF:-1 group-title="English News",India news
+http://103.159.180.34:5001/live/498.m3u8
+#EXTINF:-1 group-title="English News",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 group-title="English News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="English News",Zee News
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="English News",VIP News
+https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="English News",Mh One News
+http://103.159.180.34:5001/live/511.m3u8
+#EXTINF:-1 group-title="English News",India News UP
+http://103.159.180.34:5001/live/512.m3u8
+#EXTINF:-1 group-title="English News",India News Rajasthan
+http://103.159.180.34:5001/live/513.m3u8
+#EXTINF:-1 group-title="English News",India News MP
+http://103.159.180.34:5001/live/515.m3u8
+#EXTINF:-1 group-title="English News",India News Haryana
+http://103.159.180.34:5001/live/516.m3u8
+#EXTINF:-1 group-title="English News",Sadhna News Plus
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="English News",News18 MP Chhattisgarh
+https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 UP Uttarakhand
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 Rajasthan
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",Newslive
+http://103.159.180.34:5001/live/613.m3u8
+#EXTINF:-1 group-title="English News",TV9 Telugu News
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="English News",News18 Gujarati
+https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",Prag News
+http://103.159.180.34:5001/live/624.m3u8
+#EXTINF:-1 group-title="English News",Suvarna News
+https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 group-title="English News",News18 Assam NE
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 Kannada
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 Punjab Haryana
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",TV 5 News
+https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8
+#EXTINF:-1 group-title="English News",News Time TV
+https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="English News",news18 Bihar Jharkhand
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 Delhi NCR JK
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 Odia
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",Kanak News
+http://103.159.180.34:5001/live/718.m3u8
+#EXTINF:-1 group-title="English News",Kairali News
+https://cdn-3.pishow.tv/live/1469/master.m3u8
+#EXTINF:-1 group-title="English News",Kashish News
+https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
+#EXTINF:-1 group-title="English News",Prameya News 7
+http://103.159.180.34:5001/live/779.m3u8
+#EXTINF:-1 group-title="English News",Mathrubhumi News
+http://103.159.180.34:5001/live/780.m3u8
+#EXTINF:-1 group-title="English News",Sandesh News
+https://stream.ottlive.co.in/sandeshnews/index.m3u8
+#EXTINF:-1 group-title="English News",K News India
+https://legitpro.co.in/knews/index.m3u8
+#EXTINF:-1 group-title="English News",CVR News
+https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
+#EXTINF:-1 group-title="English News",I News
+https://cdn-1.pishow.tv/live/411/master.m3u8
+#EXTINF:-1 group-title="English News",News State UK UP
+http://103.159.180.34:5001/live/792.m3u8
+#EXTINF:-1 group-title="English News",Gulistan News
+https://live.gulistannews.in/hls/gul.m3u8
+#EXTINF:-1 group-title="English News",Sony BBC EarthEnglish
+http://202.70.146.135:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="English News",Living India News
+https://stream.ottlive.co.in/livingindia/index.m3u8
+#EXTINF:-1 group-title="English News",News India 24x7
+https://stream.ottlive.co.in/newsindia/index.m3u8
+#EXTINF:-1 group-title="English News",News11
+https://live1.ottlive.co.in/news11/news11/index.m3u8
+#EXTINF:-1 group-title="English News",GoodNews Channel
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="English News",News 1 India
+https://mumt02.tangotv.in/NEWS1INDIA/index.m3u8
+#EXTINF:-1 group-title="English News",Mantavya News
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
+#EXTINF:-1 group-title="English News",News18 Kerala
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",Calcutta News
+https://legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:-1 group-title="English News",BRK News
+https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
+#EXTINF:-1 group-title="English News",BBC News Hindi
+http://103.159.180.34:5001/live/1431.m3u8
+#EXTINF:-1 group-title="English News",News Only
+https://livestream.unlimitedcdn.com/newsonly/index.m3u8
+#EXTINF:-1 group-title="English News",Argus News
+https://stream.ottlive.co.in/argus/index.m3u8
+#EXTINF:-1 group-title="English News",AB News
+http://103.159.180.34:5001/live/1550.m3u8
+#EXTINF:-1 group-title="English News",MP News
+http://103.159.180.34:5001/live/1608.m3u8
+#EXTINF:-1 group-title="English News",Divyang News
+http://103.159.180.34:5001/live/1610.m3u8
+#EXTINF:-1 group-title="English News",Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="English News",C News Bharat
+https://legitpro.co.in/cnews/cnews/index.m3u8
+#EXTINF:-1 group-title="English News",FM News
+http://103.159.180.34:5001/live/1697.m3u8
+#EXTINF:-1 group-title="English News",Express News
+http://103.159.180.34:5001/live/1771.m3u8
+#EXTINF:-1 group-title="English News",Bharat News TV
+http://103.159.180.34:5001/live/1777.m3u8
+#EXTINF:-1 group-title="English News",National News Sattaxpress
+http://103.159.180.34:5001/live/1793.m3u8
+#EXTINF:-1 group-title="English News",DA News Plus
+http://103.159.180.34:5001/live/1797.m3u8
+#EXTINF:-1 group-title="English News",Jan Setu News
+https://thelegitpro.in/hls10/jansetunews/index.m3u8
+#EXTINF:-1 group-title="English News",Today 24 News
+http://103.159.180.34:5001/live/1895.m3u8
+#EXTINF:-1 group-title="English News",News Flash
+http://103.159.180.34:5001/live/1896.m3u8
+#EXTINF:-1 group-title="English News",News 24 Express
+http://103.159.180.34:5001/live/1963.m3u8
+#EXTINF:-1 group-title="English News",ABC News
+http://103.159.180.34:5001/live/1964.m3u8
+#EXTINF:-1 group-title="English News",Top News Marathi
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+#EXTINF:-1 group-title="English News",BS9 News
+http://103.159.180.34:5001/live/2007.m3u8
+#EXTINF:-1 group-title="English News",News 21
+http://103.159.180.34:5001/live/2008.m3u8
+#EXTINF:-1 group-title="English News",News India TV
+http://103.159.180.34:5001/live/2014.m3u8
+#EXTINF:-1 group-title="English News",KKD News
+http://103.159.180.34:5001/live/2020.m3u8
+#EXTINF:-1 group-title="English News",Aaryaa News
+http://103.159.180.34:5001/live/2030.m3u8
+#EXTINF:-1 group-title="English News",22Scope News
+https://ott.livelegitpro.in/hls4/22scope/index.m3u8
+#EXTINF:-1 group-title="English News",Swatantra News
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+#EXTINF:-1 group-title="English News",India News Punjab
+http://103.159.180.34:5001/live/2224.m3u8
+#EXTINF:-1 group-title="English News",Vande Bharat News
+https://live.ottlive.co.in/vandebharat/vandebharat/index.m3u8
+#EXTINF:-1 group-title="English News",E News79
+http://103.159.180.34:5001/live/2433.m3u8
+#EXTINF:-1 group-title="English News",Prime 9 News
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+#EXTINF:-1 group-title="English News",Zee Kannada News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeKannadaNews.m3u8
+#EXTINF:-1 group-title="English News",News State Bihar Jharkhand
+http://103.159.180.34:5001/live/2764.m3u8
+#EXTINF:-1 group-title="English News",Sadhna News MP CG
+http://103.159.180.34:5001/live/2771.m3u8
+#EXTINF:-1 group-title="English News",Asian News
+https://stream.ottlive.co.in/asiannews/index.m3u8
+#EXTINF:-1 group-title="English News",WPN World Punjabi News
+https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+#EXTINF:-1 group-title="English News",IPN News
+http://103.159.180.34:5001/live/3014.m3u8
+#EXTINF:-1 group-title="English News",News Hour
+https://mumt02.tangotv.in/NEWSHOUR/index.m3u8
+#EXTINF:-1 group-title="English News",News 360
+http://103.159.180.34:5001/live/3018.m3u8
+#EXTINF:-1 group-title="English News",Janadesh News
+https://5dd3981940faa.streamlock.net/janadesh/janadesh/playlist.m3u8
+#EXTINF:-1 group-title="English News",Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="English News",News 24x7
+http://103.159.180.34:5001/live/3042.m3u8
+#EXTINF:-1 group-title="English News",Indian News
+https://legitpro.co.in/indu/indu/index.m3u8
+#EXTINF:-1 group-title="English News",TNP News
+https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
+#EXTINF:-1 group-title="English News",PR News
+http://103.159.180.34:5001/live/3063.m3u8
+#EXTINF:-1 group-title="English News",Navsarjan Sanskruti News
+http://103.159.180.34:5001/live/3064.m3u8
+#EXTINF:-1 group-title="English News",Today 24 News UPUK
+http://103.159.180.34:5001/live/3066.m3u8
+#EXTINF:-1 group-title="English News",Naxatra News Hindi
+http://103.159.180.34:5001/live/3086.m3u8
+#EXTINF:-1 group-title="English News",SB News 24x7
+https://sbnews.livebox.co.in/sbnewshls/live.m3u8
+#EXTINF:-1 group-title="English News",ATV India News
+http://103.159.180.34:5001/live/3111.m3u8
+#EXTINF:-1 group-title="English News",Jk Samachar News 24x7
+http://103.159.180.34:5001/live/3113.m3u8
+#EXTINF:-1 group-title="English News",News State Punjab Haryana Himachal
+http://103.159.180.34:5001/live/3152.m3u8
+#EXTINF:-1 group-title="English News",Khabar 24x7 News
+http://103.159.180.34:5001/live/3163.m3u8
+#EXTINF:-1 group-title="English News",Shri News
+http://103.159.180.34:5001/live/3164.m3u8
+#EXTINF:-1 group-title="English News",News 24 Tass
+http://103.159.180.34:5001/live/3170.m3u8
+#EXTINF:-1 group-title="English News",News Marathi 24x7
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
+#EXTINF:-1 group-title="English News",News Nation 81
+https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
+#EXTINF:-1 group-title="English News",Chanakya News India Rajasthan
+http://103.159.180.34:5001/live/3189.m3u8
+#EXTINF:-1 group-title="English News",Chanakya News National
+https://newsliveindia.com:4433/chanakyanational/index.m3u8
+#EXTINF:-1 group-title="English News",AOne News
+https://itassist.one/aonenews/AONETV/index.m3u8
+#EXTINF:-1 group-title="English News",STV24 News
+http://103.159.180.34:5001/live/3218.m3u8
+#EXTINF:-1 group-title="English News",Prime Bharat News
+http://103.159.180.34:5001/live/3220.m3u8
+#EXTINF:-1 group-title="English News",R Hindustan Tv News
+http://103.159.180.34:5001/live/3226.m3u8
+#EXTINF:-1 group-title="English News",Today India News
+http://103.159.180.34:5001/live/3227.m3u8
+#EXTINF:-1 group-title="English News",Apex News India
+http://103.159.180.34:5001/live/3230.m3u8
+#EXTINF:-1 group-title="English News",Chanakya News Jharkhand
+http://103.159.180.34:5001/live/3234.m3u8
+#EXTINF:-1 group-title="English News",Chanakya News UPUK
+https://newsliveindia.com:4433/chanakyaup/index.m3u8
+#EXTINF:-1 group-title="English News",News X World
+http://103.159.180.34:5001/live/3240.m3u8
+#EXTINF:-1 group-title="English News",BHP News
+http://103.159.180.34:5001/live/3242.m3u8
+#EXTINF:-1 group-title="English News",Samrat News TV
+https://cloud.itassist.one/samratnews2091/TATAPLAY/index.m3u8
+#EXTINF:-1 group-title="English News",Nation World News
+http://103.159.180.34:5001/live/3265.m3u8
+#EXTINF:-1 group-title="English News",VACC 24 News
+https://newsliveindia.com:4433/vacc/index.m3u8
+#EXTINF:-1 group-title="English News",NBC24 News
+http://103.159.180.34:5001/live/3291.m3u8
+#EXTINF:-1 group-title="English News",News_Plus_24x7
+http://103.159.180.34:5001/live/3299.m3u8
+#EXTINF:-1 group-title="English News",MNS News
+https://account23.livebox.co.in/Mnsnewshls/live.m3u8
+#EXTINF:-1 group-title="English News",Gj Desi News
+https://newsliveindia.com:4433/gjdeshi/index.m3u8
+#EXTINF:-1 group-title="English News",Ten News
+http://103.159.180.34:5001/live/3330.m3u8
+#EXTINF:-1 group-title="English News",News TV India
+https://stream.ottlive.co.in/newstvindia/index.m3u8
+#EXTINF:-1 group-title="English News",Ashwaveega News 24x7
+https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
+#EXTINF:-1 group-title="English News",G18 News
+http://103.159.180.34:5001/live/3378.m3u8
+#EXTINF:-1 group-title="English News",BHP News Gujarati
+http://103.159.180.34:5001/live/3405.m3u8
+#EXTINF:-1 group-title="English News",Nation News
+https://server.playontv.in/nationnews/index.m3u8
+#EXTINF:-1 group-title="English News",G94 News
+http://103.159.180.34:5001/live/3460.m3u8
+#EXTINF:-1 group-title="English News",Karnataka News Beat
+http://103.159.180.34:5001/live/3461.m3u8
+#EXTINF:-1 group-title="English News",Guarantee News
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+#EXTINF:-1 group-title="English News",NSC9 News
+https://legitpro.co.in/nsc9/index.m3u8
+#EXTINF:-1 group-title="English News",The Hind24 News
+https://th24.cloud/the24cloud/live1/index.m3u8
+#EXTINF:-1 group-title="English News",BBC Gujarati
+http://103.159.180.34:5001/live/3551.m3u8
+#EXTINF:-1 group-title="English News",BBC Marathi
+http://103.159.180.34:5001/live/3552.m3u8
+#EXTINF:-1 group-title="English News",Knock News
+http://103.159.180.34:5001/live/3556.m3u8
+#EXTINF:-1 group-title="English News",DD News
+https://cdn-2.pishow.tv/live/12/master.m3u8
+#EXTINF:-1 group-title="English News",DD News
+https://cdn-7.pishow.tv/live/19/master.m3u8
+#EXTINF:-1 group-title="English News",AKD Calcutta News
+https://cdn-2.pishow.tv/live/237/master.m3u8
+#EXTINF:-1 group-title="English News",News 1st Kannada
+https://cdn-3.pishow.tv/live/268/master.m3u8
+#EXTINF:-1 group-title="English News",News India 24x7
+https://cdn-3.pishow.tv/live/273/master.m3u8
+#EXTINF:-1 group-title="English News",T News
+https://cdn-1.pishow.tv/live/385/master.m3u8
+#EXTINF:-1 group-title="English News",TV5 News
+https://cdn-1.pishow.tv/live/387/master.m3u8
+#EXTINF:-1 group-title="English News",V6 News
+https://cdn-1.pishow.tv/live/389/master.m3u8
+#EXTINF:-1 group-title="English News",Mahaa News
+https://cdn-1.pishow.tv/live/401/master.m3u8
+#EXTINF:-1 group-title="English News",DW News English
+https://cdn-7.pishow.tv/live/431/master.m3u8
+#EXTINF:-1 group-title="English News",Swadesh News
+https://cdn-2.pishow.tv/live/465/master.m3u8
+#EXTINF:-1 group-title="English News",4TV News
+https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 group-title="English News",BRK News
+https://cdn-1.pishow.tv/live/1037/master.m3u8
+#EXTINF:-1 group-title="English News",Bansal News
+https://cdn-2.pishow.tv/live/1051/master.m3u8
+#EXTINF:-1 group-title="English News",R Plus News
+https://cdn-4.pishow.tv/live/1233/master.m3u8
+#EXTINF:-1 group-title="English News",News J
+https://cdn-3.pishow.tv/live/1279/master.m3u8
+#EXTINF:-1 group-title="English News",News Nation
+https://cdn-2.pishow.tv/live/1493/master.m3u8
+#EXTINF:-1 group-title="English News",News Time Bangla
+https://cdn-2.pishow.tv/live/1494/master.m3u8
+#EXTINF:-1 group-title="English News",PTC News
+https://cdn-4.pishow.tv/live/1502/master.m3u8
+#EXTINF:-1 group-title="English News",Sudarshan News
+https://cdn-2.pishow.tv/live/1516/master.m3u8
+#EXTINF:-1 group-title="English News",News Malayalam 24x7
+https://cdn-3.pishow.tv/live/1629/master.m3u8
+#EXTINF:-1 group-title="English News",News Live Bangla
+https://cdn-6.pishow.tv/live/10003/master.m3u8
+#EXTINF:-1 group-title="English News",News Live
+https://cdn-6.pishow.tv/live/10011/master.m3u8
+#EXTINF:-1 group-title="English News",188 News9Live
+https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8?hdnts=st=1782783088~exp=1782804688~acl=!*/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_188_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_188_-1~hmac=c3fb283e42c23b486e025aa97192f9a9df23dfde2d27e9b6f7bac169590395bf&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News9Live&ads.language=ENG&ads.user=0
+#EXTINF:-1 group-title="English News",150 CVR English News
+https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?ads.channel=1138&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783110~exp=1782804710~acl=!*/181224/smil:cvrnewseng.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_150_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_150_-1~hmac=80667d11737fdb5f00e5988f7d3bc844ab3876df939b1ae85df4e7f7ad0e5961&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=CVREnglishNews&ads.language=ENG&ads.user=0
+#EXTINF:-1 group-title="English News",225 ABP News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8?hdnts=st=1782783112~exp=1782804712~acl=!*/vglive-sk-472500/abpnews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_225_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_225_-1~hmac=8b8d60085e95ffb1c724cbbc2b9fc3df8bbf728ddc0797d100b3bd1afddab023&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ABPNews&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",13 Zee News
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?ads.channel=1501&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783112~exp=1782804712~acl=!*/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_13_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_13_-1~hmac=07a22931660f55ad4d3f1ba40c470e41de37d99e3821c21ad63d74e3fc29aa16&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeNews&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",138 Sudarshan News
+https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8?ads.channel=599&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783114~exp=1782804714~acl=!*/fta/sudarshan/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_138_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_138_-1~hmac=8350f738f5da54fff2697cc42d3b6c42a3b835d7c696b7c36490a4dc11fb37be&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SudarshanNews&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",161 News 11 Bharat
+https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8?ads.channel=6424&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783115~exp=1782804715~acl=!*/fta/news11bharat/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_161_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_161_-1~hmac=dafc7be39b655d676b7c36844bd6e7fa67210226f2047f62465d85220aaa07ff&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News11Bharat&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",26 Zee Rajasthan News
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8?ads.channel=6344&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783116~exp=1782804716~acl=!*/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_26_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_26_-1~hmac=e2ea485a4462fa8fcbaac60b8eb1f82ee586f3a7ffeaa4336804f3f5354c95d0&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeRajasthanNews&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",129 News 1 India
+https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8?ads.channel=6628&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783117~exp=1782804717~acl=!*/fta/news1india/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_129_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_129_-1~hmac=cff212d6babd0d3de5e5c2df1e1eb68425384a7e7e5ff43930950da5b32065fe&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News1India&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",152 APN News
+https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8?ads.channel=6433&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783119~exp=1782804719~acl=!*/fta/apnnews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_152_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_152_-1~hmac=b88c5690f454fd979242b6cc0ee223f611c718ecd97b9291c050b687eaa84206&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=APNNews&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",135 Bansal News
+https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?ads.channel=6439&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783120~exp=1782804720~acl=!*/fta/bansalnews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_135_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_135_-1~hmac=55f56ae7f06bd00f4089a3f1ebdcd12421978d9bf2aa653ec824b8adefcf51b4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=BansalNews&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",164 Kashish News
+https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783120~exp=1782804720~acl=!*/fta/kashishnews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_164_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_164_-1~hmac=24f1040951fa43d69f9f868b73c2bda69562c07a858b148c706e8617958afb82&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=KashishNews&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",310 Naxatra News Hindi
+https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1782783130~exp=1782804730~acl=!*/230226/naxatranewshindi/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_310_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_310_-1~hmac=aff6feb40bc631d652d6f16a6a3c1dee6446cf5e6bca627494a4b1f9ad8b8bd8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NaxatraNewsHindi&ads.language=HIN&ads.user=0
+#EXTINF:-1 group-title="English News",115 News Time
+https://yuppnimrestreammum.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?ads.channel=237&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783142~exp=1782804742~acl=!*/181224/smil:newstime.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_115_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_115_-1~hmac=8e7c8d539ad38a4d3ffbc537037727fc186ce24ff09b024157e091b0f84af0d7&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NewsTime&ads.language=BEN&ads.user=0
+#EXTINF:-1 group-title="English News",116 Calcutta News
+https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/playlist.m3u8?ads.channel=6643&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783142~exp=1782804742~acl=!*/fta/calcuttanews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_116_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_116_-1~hmac=9de240d90dab89f319d46561cecf4992574e25bde2074d78b4a95c8b61be9be7&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=CalcuttaNews&ads.language=BEN&ads.user=0
+#EXTINF:-1 group-title="English News",9 TV9 News
+https://vg-tv9yupp.vgcdn.net/vglive-sk-716953/v1/019e019b82f01ea540a871e333261/019e019bebed1ea540a871e333264/main.m3u8?hdnts=st=1782783143~exp=1782804743~acl=!*/vglive-sk-716953/v1/019e019b82f01ea540a871e333261/019e019bebed1ea540a871e333264/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_9_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_9_-1~hmac=c56b4242316bf74cb163e8a8522d634173c5968b5efe130d02ce4f8f5c8b836b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TV9News&ads.language=TEL&ads.user=0
+#EXTINF:-1 group-title="English News",121 V6 News
+https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1782783143~exp=1782804743~acl=!*/140622/v6newsdev/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_121_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_121_-1~hmac=84fff956d37c09e013d791aedec8f56fe90db5edd9089c619223d61b07d8fa0f&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=V6News&ads.language=TEL&ads.user=0
+#EXTINF:-1 group-title="English News",108 T News
+https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?ads.channel=198&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783144~exp=1782804744~acl=!*/120723/smil:tnews.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_108_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_108_-1~hmac=ee0df8c90cb830a2941a02911122f212156450eca88a6f63d159edf175b44f49&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TNews&ads.language=TEL&ads.user=0
+#EXTINF:-1 group-title="English News",141 iNews
+https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?ads.channel=141&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783145~exp=1782804745~acl=!*/28072023/smil:inews.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_141_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_141_-1~hmac=8300fc305f05c2d7c2b1119c9066c05d4154ee256489731a3b7e9238eb6004ba&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=iNews&ads.language=TEL&ads.user=0
+#EXTINF:-1 group-title="English News",33 Zee News Telugu
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8?ads.channel=6372&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783145~exp=1782804745~acl=!*/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_33_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_33_-1~hmac=329d66ff84e693db0e2a0d98f9be493141263a9ca398a0190ab848c6861fc7c1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeNewsTelugu&ads.language=TEL&ads.user=0
+#EXTINF:-1 group-title="English News",139 CVR News
+https://yuppnimrestreammum.akamaized.net/181224/smil:cvrtelugu.smil/playlist.m3u8?hdnts=st=1782783146~exp=1782804746~acl=!*/181224/smil:cvrtelugu.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_139_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_139_-1~hmac=5c11ff5f02605f9bf4a39ed89f99fc46daa235cee7cd1a28d38cd291c652d5a5&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=CVRNews&ads.language=TEL&ads.user=0
+#EXTINF:-1 group-title="English News",319 BRK News
+https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?ads.channel=7095&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1782783151~exp=1782804751~acl=!*/230226/brknews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_319_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_319_-1~hmac=f49b338d8e81f67952a35b1c7f53d765a10a3d37bd8a627a4a1b6d0d8a6c02d1&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=BRKNews&ads.language=TEL&ads.user=0
+#EXTINF:-1 group-title="English News",181 News 1st
+https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8?ads.channel=6388&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783155~exp=1782804755~acl=!*/fta/News1st/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_181_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_181_-1~hmac=d2fc1dbae4942af755eb5ce934744ecd5abd9d16e994199915111b623da2a069&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News1st&ads.language=KAN&ads.user=0
+#EXTINF:-1 group-title="English News",103 Mantavya News
+https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8?ads.channel=6652&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783157~exp=1782804757~acl=!*/fta/mantavya/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_103_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_103_-1~hmac=e74540cd8f2bbaf06ade9d1d4c614459649adcfc1b4f4f0e31d9a6cac18561db&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=MantavyaNews&ads.language=GUA&ads.user=0
+#EXTINF:-1 group-title="English News",1st India News
+https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
+#EXTINF:-1 group-title="English News",24 News
+https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
+#EXTINF:-1 group-title="English News",Bansal News
+https://mumt02.tangotv.in/BANSALNEWS/index.m3u8
+#EXTINF:-1 group-title="English News",Mathrubhumi News
+https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
+#EXTINF:-1 group-title="English News",News State Uttar Pradesh/Uttarakhand
+https://mumt02.tangotv.in/NEWSSTATEUPUK/index.m3u8
+#EXTINF:-1 group-title="English News",News X
+https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
+#EXTINF:-1 group-title="English News",News X World
+https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
+#EXTINF:-1 group-title="English News",Prag News
+https://mumt05.tangotv.in/87NeALx2PRAGNEWS/index.m3u8
+#EXTINF:-1 group-title="English News",Prameya News 7
+https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+#EXTINF:-1 group-title="English News",Prime News
+https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
+#EXTINF:-1 group-title="English News",Pudhari News
+https://mumt04.tangotv.in/m18aqlK4PUDHARINEWS/index.m3u8
+#EXTINF:-1 group-title="English News",Sandesh News
+https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
+#EXTINF:-1 group-title="English News",Swadesh News
+https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8
+#EXTINF:-1 group-title="English News",T News
+https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
+#EXTINF:-1 group-title="English News",TV5 News
+https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
+#EXTINF:-1 group-title="English News",TV 27 News
+https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
+#EXTINF:-1 group-title="English News",V6 News
+https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8
+#EXTINF:-1 group-title="English News",316 Km News Bengaluru
+https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
+#EXTINF:-1 group-title="English News",410 Ten news
+https://newsliveindia.com:4433/ten/index.m3u8
+#EXTINF:-1 group-title="English News",News Nation
+https://nn-khabriyatv.originein.in/nntv/national/master_nnna_khabriyatv.m3u8
+#EXTINF:-1 group-title="English News",Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
+#EXTINF:-1 group-title="English News",C News Bharat
+https://legitpro.co.in/cnews/cnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English News",GTC News
+https://stream.ottlive.co.in/gtcnews/index.m3u8
+#EXTINF:-1 group-title="English News",Knock News Punjabi
+https://knocktv.wiseplayout.com/Knock_News/master.m3u8
+#EXTINF:-1 group-title="English News",News Bartaman 24×7
+https://stream.ottlive.co.in/cnnnews/index.m3u8
+#EXTINF:-1 group-title="English News",GB News
+https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
+#EXTINF:-1 group-title="English News",i24 NEWS
+https://hlspackager.akamaized.net//live/DB/i24_ENGLISH/NEO/i24_ENGLISH.m3u8
+#EXTINF:-1 group-title="English News",JJ News
+https://hlsstream.olidigital.in/jjtvnewstamil/jjtvnewstamil/index.m3u8
+#EXTINF:-1 group-title="English News",RT News
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+# --- Sports ---
+#EXTINF:-1 group-title="Sports",Star Sports 1
+http://202.70.146.135:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 4 Tamil
+https://sonyliv.07in.workers.dev/live/999/999/sony-sports-ten-4.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2 Tamil
+http://202.70.146.135:8000/play/a026/index.m3u8
