@@ -256,7 +256,7 @@ if __name__ == "__main__":
     "star utsav", "star gold", "sony max", "zee cinema", "&pictures",
     "sony wah", "star bharat", "dangal", "big magic", "dd national",
     "dd india", "lok sabha", "rajya sabha"
-}
+
 
 LANG_KW = {
     "tamil": ["tamil", "sun ", "vijay", "kalaignar", "jaya ", "raj ", "captain",
