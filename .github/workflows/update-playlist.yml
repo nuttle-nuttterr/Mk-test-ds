@@ -25,6 +25,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Check Python syntax
+        run: python -m py_compile generate_playlist.py
+
       - name: Run playlist generator
         run: python generate_playlist.py
 
@@ -35,6 +38,10 @@ jobs:
           git add playlist.m3u README.md
           if git diff --staged --quiet; then
             echo "No changes to commit."
+          else
+            git commit -m "🔄 Auto-update playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi            echo "No changes to commit."
           else
             git commit -m "🔄 Auto-update playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
