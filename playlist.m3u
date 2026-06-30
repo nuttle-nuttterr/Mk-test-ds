@@ -597,6 +597,8 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1782822
 https://mumt05.tangotv.in/87NeALx2NKTVPLUS/index.m3u8
 
 # --- Tamil News ---
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1J6Fb93v/Picsart-25-02-10-14-47-48-934.png" group-title="Tamil News",SUN NEWS [SD]
+https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
 #EXTINF:-1 tvg-id="00020" tvg-logo="https://tamilwebcast.com/TV-Logos/polimernews.png" group-title="Tamil News",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="00025" tvg-logo="https://tamilwebcast.com/TV-Logos/news7.jpeg" group-title="Tamil News",News7 Tamil
@@ -625,6 +627,8 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/110322/polimernews/playlist.m3u8?hdnts=st=1782822634~exp=1782844234~acl=!*/110322/polimernews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.172.237.187_yuppfast_2_channel_184_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.172.237.187_yuppfast_2_channel_184_-1~hmac=f146ad22442d230406f830883af6ece1e6d06dec53a83868c9b955fc5b9b2fea&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=PolimerNews&ads.language=TAM&ads.user=0
 #EXTINF:-1 tvg-id="119" tvg-chno="119" tvg-name="Seithigal TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png" group-title="Tamil News",119 Seithigal TV
 https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782822635~exp=1782844235~acl=!*/120723/smil:seithagal.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.172.237.187_yuppfast_2_channel_119_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.172.237.187_yuppfast_2_channel_119_-1~hmac=821b0547f6b629cee120ae4e4ef80a0d0ddd7aa79f7debcab070b1958e37d2a7&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SeithigalTV&ads.language=TAM&ads.user=0
+#EXTINF:-1 tvg-logo="" group-title="Tamil News",News 7 Tamil
+https://mumt02.tangotv.in/NEWS7TAMIL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil News",Polimer News
 https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil News",Thanthi TV
@@ -775,12 +779,16 @@ https://stream.ottlive.co.in/newsindia/index.m3u8
 https://live1.ottlive.co.in/news11/news11/index.m3u8
 #EXTINF:-1 tvg-id="907" tvg-name="GoodNews Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GoodNews_Channel.png" tvg-language="English" group-title="English News",GoodNews Channel
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="921" tvg-name="Prime News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png" tvg-language="Hindi" group-title="English News",Prime News
+https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
 #EXTINF:-1 tvg-id="936" tvg-name="News 1 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_1_India.png" tvg-language="Hindi" group-title="English News",News 1 India
 https://mumt02.tangotv.in/NEWS1INDIA/index.m3u8
 #EXTINF:-1 tvg-id="944" tvg-name="Mantavya News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" tvg-language="Gujarati" group-title="English News",Mantavya News
 https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
 #EXTINF:-1 tvg-id="965" tvg-name="News18 Kerala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Kerala.png" tvg-language="Malayalam" group-title="English News",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="1179" tvg-name="Bansal News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bansal_News.png" tvg-language="Hindi" group-title="English News",Bansal News
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1250" tvg-name="Twenty Four News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" tvg-language="Malayalam" group-title="English News",Twenty Four News
 https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="1261" tvg-name="Calcutta News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calcutta_News.png" tvg-language="Bengali" group-title="English News",Calcutta News
@@ -1039,8 +1047,10 @@ https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English News",Bansal News
 https://mumt02.tangotv.in/BANSALNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English News",News 11
-https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English News",K News India
+https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English News",Mahaa News
+https://mumt02.tangotv.in/MAHAANEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English News",News State Uttar Pradesh/Uttarakhand
 https://mumt02.tangotv.in/NEWSSTATEUPUK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English News",News X
