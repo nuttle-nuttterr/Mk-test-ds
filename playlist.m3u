@@ -631,8 +631,6 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/110322/polimernews/playlist.m3u8?hdnts=st=1782783133~exp=1782804733~acl=!*/110322/polimernews/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_184_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_184_-1~hmac=769cc50299bc066702a5b76f008c75f8a0ba804c2ca8bcc045ba4dc13f3a5936&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=PolimerNews&ads.language=TAM&ads.user=0
 #EXTINF:-1 group-title="Tamil News",119 Seithigal TV
 https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?ads.content_custom_3_param=YuppFastIndia&hdnts=st=1782783133~exp=1782804733~acl=!*/120723/smil:seithagal.smil/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_119_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_52.188.87.5_yuppfast_2_channel_119_-1~hmac=551eead78568a0af38e75001dd4d62b552715139540676937a227b838bfeb70d&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=SeithigalTV&ads.language=TAM&ads.user=0
-#EXTINF:-1 group-title="Tamil News",News 7 Tamil
-https://mumt02.tangotv.in/NEWS7TAMIL/index.m3u8
 #EXTINF:-1 group-title="Tamil News",Polimer News
 https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
 #EXTINF:-1 group-title="Tamil News",Raj News Kannada
@@ -849,12 +847,16 @@ https://stream.ottlive.co.in/newsindia/index.m3u8
 https://live1.ottlive.co.in/news11/news11/index.m3u8
 #EXTINF:-1 group-title="English News",GoodNews Channel
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="English News",Prime News
+https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
 #EXTINF:-1 group-title="English News",News 1 India
 https://mumt02.tangotv.in/NEWS1INDIA/index.m3u8
 #EXTINF:-1 group-title="English News",Mantavya News
 https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
 #EXTINF:-1 group-title="English News",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="English News",Twenty Four News
+https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 group-title="English News",Calcutta News
 https://legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 group-title="English News",BRK News
@@ -1135,8 +1137,10 @@ https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 group-title="English News",Bansal News
 https://mumt02.tangotv.in/BANSALNEWS/index.m3u8
-#EXTINF:-1 group-title="English News",Mathrubhumi News
-https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
+#EXTINF:-1 group-title="English News",K News India
+https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
+#EXTINF:-1 group-title="English News",News 11
+https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
 #EXTINF:-1 group-title="English News",News State Uttar Pradesh/Uttarakhand
 https://mumt02.tangotv.in/NEWSSTATEUPUK/index.m3u8
 #EXTINF:-1 group-title="English News",News X
