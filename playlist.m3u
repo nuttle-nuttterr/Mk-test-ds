@@ -11,16 +11,24 @@ https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&chan
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxJvBqhy/Picsart-25-02-10-10-56-32-849.png" group-title="Tamil Entertainment",SUN TV HD [DOLBY AUDIO]
 https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
-#EXTINF:-1 tvg-id="977" tvg-logo="http://tv.push4k989.tv/stalker_portal/misc/logos/320/835.jpg" group-title="Tamil Entertainment",RAJ TV
-https://tinyurl.com/yaarokayaar1110-channel57
 #EXTINF:-1 tvg-id="72131" tvg-name="TAMIL - ZEE TAMIL" tvg-logo="https://go4.pw/ASIA/TAMIL/ZEETAMILHD.png" group-title="Tamil Entertainment",ZEE TAMIL
 http://185.160.192.64:80/live/CWX8108/DFR9274/339355.ts
+#EXTINF:-1 tvg-id="977" tvg-logo="http://tv.push4k989.tv/stalker_portal/misc/logos/320/835.jpg" group-title="Tamil Entertainment",RAJ TV
+https://tinyurl.com/yaarokayaar1110-channel57
+#EXTINF:-1 tvg-id="132" group-title="Tamil Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png",COLORS Tamil HD
+https://ucdn.starhubgo.com/bpk-tv/COLORSTamilHD/output/manifest.mpd
+#EXTINF:-1 tvg-id="158" group-title="Tamil Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png",ADITHYA TV
+https://ucdn.starhubgo.com/bpk-tv/ADITHYATV/output/manifest.mpd
+#EXTINF:-1 tvg-id="133" group-title="Tamil Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png",Sun TV HD
+https://ucdn.starhubgo.com/bpk-tv/SunTV/output/manifest.mpd
+#EXTINF:-1 tvg-id="138" group-title="Tamil Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png",Zee Tamil HD
+https://ucdn.starhubgo.com/bpk-tv/ZeeTamil/output/manifest.mpd
 #EXTINF:-1 tvg-chno="9" tvg-id="d30b55c02a384996c97546254162820d" tvg-name="TM: Adithya TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vOWI2MWEyYS5wbmc" group-title="Tamil Entertainment",TM: Adithya TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427728.ts?channelId=43404&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="32" tvg-id="346a975057c0846b8e382ba574623cda" tvg-name="TM: Colors Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZTc0ZmEzZi5wbmc" group-title="Tamil Entertainment",TM: Colors Tamil FHD
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427738.ts?channelId=43408&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="34" tvg-id="fe945cd510331bf3c422d72984f3de28" tvg-name="TM: Colors Tamil UK" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZTc0ZmEzZi5wbmc" group-title="Tamil Entertainment",TM: Colors Tamil UK
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427739.ts?channelId=89822&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="32" tvg-id="346a975057c0846b8e382ba574623cda" tvg-name="TM: Colors Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZTc0ZmEzZi5wbmc" group-title="Tamil Entertainment",TM: Colors Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427738.ts?channelId=43408&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="68" tvg-id="045bc2fc316306598f8e59b8dbf74478" tvg-name="TM: Jaya TV FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNmNhZDEzZC5wbmc" group-title="Tamil Entertainment",TM: Jaya TV FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427756.ts?channelId=43517&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="80" tvg-id="3943e34c6e8ee11105e2f610a85300cc" tvg-name="TM: Kalaignar TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0thbGFpZ25hcnR2LnBuZw" group-title="Tamil Entertainment",TM: Kalaignar TV
@@ -29,54 +37,54 @@ http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427762.ts?channelId=43520&
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427772.ts?channelId=89829&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="124" tvg-id="ccd99c9e5892b343b1233b12c80ad666" tvg-name="TM: Polimer TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNzExZWVlMy5wbmc" group-title="Tamil Entertainment",TM: Polimer TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427784.ts?channelId=85931&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="137" tvg-id="a221ce9297b11cf46134e6071938d3ca" tvg-name="TM: Raj TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZmE3NmIzZi5wbmc" group-title="Tamil Entertainment",TM: Raj TV
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427791.ts?channelId=43417&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="155" tvg-id="1bb675b948860e6d62c585d20b7bffec" tvg-name="TM: Sirippoli TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vOGZhZWJjMS5wbmc" group-title="Tamil Entertainment",TM: Sirippoli TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427800.ts?channelId=43521&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="161" tvg-id="a791722e5ca5648a82b0bcfd93be1222" tvg-name="TM: Star Vijay FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vMzIzNDBkYi5wbmc" group-title="Tamil Entertainment",TM: Star Vijay FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427804.ts?channelId=43419&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="137" tvg-id="a221ce9297b11cf46134e6071938d3ca" tvg-name="TM: Raj TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZmE3NmIzZi5wbmc" group-title="Tamil Entertainment",TM: Raj TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427791.ts?channelId=43417&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="162" tvg-id="ce6522e05eacc8f145bbad2e531a71fb" tvg-name="TM: Star Vijay FHD (BK)" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vMzIzNDBkYi5wbmc" group-title="Tamil Entertainment",TM: Star Vijay FHD (BK)
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427805.ts?channelId=132400&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="163" tvg-id="48e8eba7fd53d88de8aa3e314cd8caff" tvg-name="TM: Star Vijay Super HD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vOWQ2NjdmZS5wbmc" group-title="Tamil Entertainment",TM: Star Vijay Super HD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427806.ts?channelId=43518&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="168" tvg-id="8c2a18007743bcf77124f15426cdddb2" tvg-name="TM: Sun TV FHD (BK)" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZDQ1MGU2Ny5wbmc" group-title="Tamil Entertainment",TM: Sun TV FHD (BK)
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427811.ts?channelId=132404&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="167" tvg-id="651a366f62f5d4381ed5fa01124c633a" tvg-name="TM: Sun TV FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZDQ1MGU2Ny5wbmc" group-title="Tamil Entertainment",TM: Sun TV FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427810.ts?channelId=43421&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="169" tvg-id="abc2253f13cbdd6dcee0f1e50e26ee29" tvg-name="TM: Sun TV UK" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZDQ1MGU2Ny5wbmc" group-title="Tamil Entertainment",TM: Sun TV UK
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427812.ts?channelId=89823&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="179" tvg-id="17a29e2ef94261c95461a1764f4abaf2" tvg-name="TM: Vendhar TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vYjAzMjg4ZC5wbmc" group-title="Tamil Entertainment",TM: Vendhar TV
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427822.ts?channelId=43422&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="168" tvg-id="8c2a18007743bcf77124f15426cdddb2" tvg-name="TM: Sun TV FHD (BK)" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZDQ1MGU2Ny5wbmc" group-title="Tamil Entertainment",TM: Sun TV FHD (BK)
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427811.ts?channelId=132404&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="177" tvg-id="ede8f40a6a7595bf70e7f5af6b66587f" tvg-name="TM: Vasanth TV (Spiritual)" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3MzLmkzbnMubmV0OjIwNTIvcG9ydGFsL3BpY29uLzIwMjMtMDUvZTUxNDY0MGNiY2M0ZDI0NDMwZGJlZTNhOGIyNGQzNGMucG5n" group-title="Tamil Entertainment",TM: Vasanth TV (Spiritual)
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427820.ts?channelId=89835&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="181" tvg-id="b0c7bfaa2a5f8687b733561315ddf69d" tvg-name="TM: Zee Tamil FHD (BK)" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vODY3YTNhYS5wbmc" group-title="Tamil Entertainment",TM: Zee Tamil FHD (BK)
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427824.ts?channelId=128481&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="179" tvg-id="17a29e2ef94261c95461a1764f4abaf2" tvg-name="TM: Vendhar TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vYjAzMjg4ZC5wbmc" group-title="Tamil Entertainment",TM: Vendhar TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427822.ts?channelId=43422&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="182" tvg-id="fed2a44fb40e5283a73ce2971d3738c2" tvg-name="TM: Zee Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vODY3YTNhYS5wbmc" group-title="Tamil Entertainment",TM: Zee Tamil FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427825.ts?channelId=43423&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsTamilHD.png" tvg-language="Tamil" group-title="Tamil Entertainment",Colors Tamil HD
-http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_TAMIL_HD&uid=999&pass=999
 #EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" tvg-language="Tamil" group-title="Tamil Entertainment",Star Vijay HD
 http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_VIJAY_HD&uid=999&pass=999
+#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsTamilHD.png" tvg-language="Tamil" group-title="Tamil Entertainment",Colors Tamil HD
+http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_TAMIL_HD&uid=999&pass=999
 
 # --- Tamil News ---
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1J6Fb93v/Picsart-25-02-10-14-47-48-934.png" group-title="Tamil News",SUN NEWS [SD]
 https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
-#EXTINF:-1 tvg-chno="78" tvg-id="1cc69f8d70b63bc095f6e90bc66e3114" tvg-name="TM: Kalaignar Seithigal TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL2thbGFpZ25hcnNlaXRoaWdhbG5ld3MucG5n" group-title="Tamil News",TM: Kalaignar Seithigal TV
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427761.ts?channelId=89880&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="92" tvg-id="98ca234096f9f7df64b095821e33adbf" tvg-name="TM: Madhimugam TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil News",TM: Madhimugam TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427768.ts?channelId=89847&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="78" tvg-id="1cc69f8d70b63bc095f6e90bc66e3114" tvg-name="TM: Kalaignar Seithigal TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL2thbGFpZ25hcnNlaXRoaWdhbG5ld3MucG5n" group-title="Tamil News",TM: Kalaignar Seithigal TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427761.ts?channelId=89880&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="114" tvg-id="ef51a3d4f46755f3c94ddaee98e053bf" tvg-name="TM: News18 Tamil Nadu FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNzBiZjNjNS5wbmc" group-title="Tamil News",TM: News18 Tamil Nadu FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427779.ts?channelId=43412&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="122" tvg-id="276bca200b6aef4e1e701c30b6a7b70a" tvg-name="TM: Polimer News FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vMDMwMTNjNS5wbmc" group-title="Tamil News",TM: Polimer News FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427783.ts?channelId=43515&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="151" tvg-id="5c8c17343e5e5eeea2d2326bde6f62b6" tvg-name="TM: Sathiyam TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL1NhdGhpeWFtVFYucG5n" group-title="Tamil News",TM: Sathiyam TV
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427798.ts?channelId=89841&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="135" tvg-id="53dbe782659c3b0189be7a2ab0ac19d9" tvg-name="TM: Raj News" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vOWI2N2IyYy5wbmc" group-title="Tamil News",TM: Raj News
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427790.ts?channelId=85935&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="173" tvg-id="8f540834b5f3be96eb2c2668cadabbcd" tvg-name="TM: Thanthi TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3MzLmkzbnMubmV0OjIwNTIvcG9ydGFsL3BpY29uLzIwMjEtMDYvMTQ3YjhjNDBiNzY5ZWY0MzE0NWRiYzEyN2JlY2M5NDAucG5n" group-title="Tamil News",TM: Thanthi TV
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427816.ts?channelId=89844&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="151" tvg-id="5c8c17343e5e5eeea2d2326bde6f62b6" tvg-name="TM: Sathiyam TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL1NhdGhpeWFtVFYucG5n" group-title="Tamil News",TM: Sathiyam TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427798.ts?channelId=89841&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="166" tvg-id="3ce0b5fd2a3b8a661c144a95dc22c0c9" tvg-name="TM: Sun News FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNThjN2UwMC5wbmc" group-title="Tamil News",TM: Sun News FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427809.ts?channelId=78821&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="173" tvg-id="8f540834b5f3be96eb2c2668cadabbcd" tvg-name="TM: Thanthi TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3MzLmkzbnMubmV0OjIwNTIvcG9ydGFsL3BpY29uLzIwMjEtMDYvMTQ3YjhjNDBiNzY5ZWY0MzE0NWRiYzEyN2JlY2M5NDAucG5n" group-title="Tamil News",TM: Thanthi TV
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427816.ts?channelId=89844&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-id="676" tvg-name="Sun News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" tvg-language="Tamil" group-title="Tamil News",Sun News
 http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SUN_NEWS&uid=999&pass=999
 
@@ -91,10 +99,12 @@ https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.m
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 #EXTINF:-1 tvg-id="970" tvg-logo="http://tv.push4k989.tv/stalker_portal/misc/logos/320/828.jpg" group-title="Tamil Movies",RAJ DIGITAL PLUS
 https://tinyurl.com/yaarokayaar1110-channel58
-#EXTINF:-1 tvg-chno="76" tvg-id="0a7a63685da6782197cb31262aa03c2f" tvg-name="TM: KTV UK" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNjQzNTAzZi5wbmc" group-title="Tamil Movies",TM: KTV UK
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427760.ts?channelId=89824&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-id="159" group-title="Tamil Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png",KTV HD
+https://ucdn.starhubgo.com/bpk-tv/KTVHD/output/manifest.mpd
 #EXTINF:-1 tvg-chno="74" tvg-id="8ee43c652f082b94d7f22dfcdd183c8b" tvg-name="TM: KTV FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNjQzNTAzZi5wbmc" group-title="Tamil Movies",TM: KTV FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427759.ts?channelId=43411&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="76" tvg-id="0a7a63685da6782197cb31262aa03c2f" tvg-name="TM: KTV UK" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNjQzNTAzZi5wbmc" group-title="Tamil Movies",TM: KTV UK
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427760.ts?channelId=89824&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="132" tvg-id="6a591d4ac83057988208063f43edd45a" tvg-name="TM: Raj Digital Plus" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZTI2YjhiYi5wbmc" group-title="Tamil Movies",TM: Raj Digital Plus
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427788.ts?channelId=43415&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="164" tvg-id="e8cb08b82aded4df505468e265b89023" tvg-name="TM: Sun Life" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2ltYWdlcy9hZjE0NjZmYmIucG5n" group-title="Tamil Movies",TM: Sun Life
@@ -113,6 +123,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd|User
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 #EXTINF:-1 group-logo="" tvg-id="194410" tvg-language="Tamil" tvg-logo="https://tamilwebcast.com/TV-Logos/SunMusic.jpg" group-title="Tamil Music",SNXT Sun Music
 https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
+#EXTINF:-1 tvg-id="134" group-title="Tamil Music" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png",Sun Music
+https://ucdn.starhubgo.com/bpk-tv/SunMusic/output/manifest.mpd
 #EXTINF:-1 tvg-chno="60" tvg-id="439da1557286237f5b28a02a6c296920" tvg-name="TM: Isaiaruvi" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0lzYWlhcnV2aS5wbmc" group-title="Tamil Music",TM: Isaiaruvi
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427752.ts?channelId=43522&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="133" tvg-id="8a25e17cb67e5ebff5060389d0690791" tvg-name="TM: Raj Musix" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vZDIyYTI2Zi5wbmc" group-title="Tamil Music",TM: Raj Musix
@@ -127,10 +139,10 @@ https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_inde
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427736.ts?channelId=43407&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="30" tvg-id="6e956d6f111a2ebf92a16ce20b762886" tvg-name="TM: Chutti TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNjczNDc0Mi5wbmc" group-title="Tamil Kids",TM: Chutti TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427737.ts?channelId=78855&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="116" tvg-id="3b85269f7967da922866f183d1fb7123" tvg-name="TM: Nick Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Kids",TM: Nick Tamil
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427780.ts?channelId=89850&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="120" tvg-id="7149a3edb2de4436b44c072bc13ea69a" tvg-name="TM: Pogo Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Kids",TM: Pogo Tamil
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427782.ts?channelId=89849&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="116" tvg-id="3b85269f7967da922866f183d1fb7123" tvg-name="TM: Nick Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Kids",TM: Nick Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427780.ts?channelId=89850&uid=4710&deviceMac=00:1A:79:83:6F:C5
 
 # --- Tamil Devotional ---
 #EXTINF:-1 tvg-chno="12" tvg-id="656e0987831519458c9cc4b8aeedffde" tvg-name="TM: Angel TV FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Devotional",TM: Angel TV FHD
@@ -145,14 +157,18 @@ https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.m
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="StrykTV.us@HD" tvg-logo="https://i.imgur.com/rKkHhkX.png" group-title="Tamil Local",Stryk TV (1080p)
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rRtdSJpc/Picsart-25-02-10-15-08-55-705.png" group-title="Tamil Local",SUN NEO [HD]
-https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z6LQBFfL/Picsart-25-02-10-15-10-05-929.png" group-title="Tamil Local",SUN BANGALA [SD]
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rRtdSJpc/Picsart-25-02-10-15-08-55-705.png" group-title="Tamil Local",SUN NEO [HD]
+https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 #EXTINF:-1 tvg-id="Madha TV" group-title="Tamil Local" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 #EXTINF:-1 tvg-id="958" tvg-logo="http://tv.push4k989.tv/stalker_portal/misc/logos/320/816.jpg" group-title="Tamil Local",JAYA MAX
 http://185.160.192.64:80/live/CWX8108/DFR9274/339478.ts
+#EXTINF:-1 tvg-id="105" group-title="Tamil Local" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham HD
+https://ucdn.starhubgo.com/bpk-tv/Mediacorp_Vasantham_DASH/output/manifest.mpd
+#EXTINF:-1 tvg-id="135" group-title="Tamil Local" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png",Vijay TV HD
+https://ucdn.starhubgo.com/bpk-tv/VijayTV/output/manifest.mpd
 #EXTINF:-1 tvg-id="RockTV" tvg-logo="https://play-lh.googleusercontent.com/6fWqtRlywXirpl4cUwbjCl1vo86lOznuX6VZgG88MjMQvuwEa3OdQUG05njBjuCuhg=w512-h960-rw" group-title="Tamil Local",Rock TV
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 #EXTINF:-1 tvg-id="TamilOliTV" tvg-logo="https://play-lh.googleusercontent.com/fRbNk6OxA12aYw0Vu7jSbv1HUivEv_Zr8WcUQta67fJf1gfScLn-SLdmWCu5p9rWtjE=w512-h960-rw" group-title="Tamil Local",Tamil Oli TV
@@ -165,24 +181,24 @@ http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427726.ts?channelId=89866&
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/443297.ts?channelId=132885&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="18" tvg-id="fd992a275b7dde9a45136979c8e6fd97" tvg-name="TM: Animal Planet HD Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: Animal Planet HD Tamil FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427731.ts?channelId=89826&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="24" tvg-id="fe2ce6f51a31598638c697a64a8bcdc9" tvg-name="TM: CN HD+ Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: CN HD+ Tamil FHD
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427734.ts?channelId=89875&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="22" tvg-id="ca2961d68e072cdeadb73288a4d10c24" tvg-name="TM: Bigg Boss Tamil 9 FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0JpZ2dCb3NzVGFtaWw4LnBuZw" group-title="Tamil Local",TM: Bigg Boss Tamil 9 FHD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427733.ts?channelId=132411&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="36" tvg-id="efc80b0d71cdcf5b06c3a55f06c83010" tvg-name="TM: DD Podhigai" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0REUG9kaGlnYWkuanBn" group-title="Tamil Local",TM: DD Podhigai
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427740.ts?channelId=43409&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="24" tvg-id="fe2ce6f51a31598638c697a64a8bcdc9" tvg-name="TM: CN HD+ Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: CN HD+ Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427734.ts?channelId=89875&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="40" tvg-id="c1e6cc4787431a60785ceb909d52c951" tvg-name="TM: Discovery Channel Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vMzI5YjhjNC5wbmc" group-title="Tamil Local",TM: Discovery Channel Tamil
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427742.ts?channelId=43516&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="42" tvg-id="3c8c4f35f745ebd6b40dec3d9168185c" tvg-name="TM: Discovery Channel Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vMzI5YjhjNC5wbmc" group-title="Tamil Local",TM: Discovery Channel Tamil FHD
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427743.ts?channelId=132513&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="58" tvg-id="9a9bff0df713130b54c50c92b09133ad" tvg-name="TM: IBC Tamil HD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0lCQ1RhbWlsLnBuZw" group-title="Tamil Local",TM: IBC Tamil HD
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427751.ts?channelId=89821&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="36" tvg-id="efc80b0d71cdcf5b06c3a55f06c83010" tvg-name="TM: DD Podhigai" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0REUG9kaGlnYWkuanBn" group-title="Tamil Local",TM: DD Podhigai
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427740.ts?channelId=43409&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="42" tvg-id="3c8c4f35f745ebd6b40dec3d9168185c" tvg-name="TM: Discovery Channel Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vMzI5YjhjNC5wbmc" group-title="Tamil Local",TM: Discovery Channel Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427743.ts?channelId=132513&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="64" tvg-id="4d2d375852ea9d25268e7f495de7dca5" tvg-name="TM: Janam TV Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: Janam TV Tamil
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427754.ts?channelId=89848&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="50" tvg-id="3c513080ce81017d7638fc43bacdf2c6" tvg-name="TM: History TV18 Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0hpc3RvcnlUVjE4LnBuZw" group-title="Tamil Local",TM: History TV18 Tamil
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427747.ts?channelId=89842&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="66" tvg-id="5c1fa97fe4f595ac1ed96cefecf89118" tvg-name="TM: Jaya Max" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNDZlMmI3Yi5wbmc" group-title="Tamil Local",TM: Jaya Max
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427755.ts?channelId=43410&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="50" tvg-id="3c513080ce81017d7638fc43bacdf2c6" tvg-name="TM: History TV18 Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL0hpc3RvcnlUVjE4LnBuZw" group-title="Tamil Local",TM: History TV18 Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427747.ts?channelId=89842&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="70" tvg-id="8669d7c5da7483e81ebe6190cad8dc0e" tvg-name="TM: Jaya plus" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vYjNiZWE0MC5wbmc" group-title="Tamil Local",TM: Jaya plus
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427757.ts?channelId=85932&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="88" tvg-id="4742817cc5a315aab14bcbc2310d6d6f" tvg-name="TM: MK TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: MK TV
@@ -197,20 +213,20 @@ http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427770.ts?channelId=132363
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427771.ts?channelId=132361&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="106" tvg-id="b2f46c2dddaaebd5a992aacb9f7d0410" tvg-name="TM: Nambikkai TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cHM6Ly90di5jbG91ZGNkbi5vbmxpbmUvaW1hZ2VzL2NoYW5uZWxzL05hbWJpa2thaVRWLnBuZw" group-title="Tamil Local",TM: Nambikkai TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427775.ts?channelId=89845&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="108" tvg-id="390e0cd2520cb3353f83e03523765146" tvg-name="TM: News 7 Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vY2UyNzVlNy5wbmc" group-title="Tamil Local",TM: News 7 Tamil
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427776.ts?channelId=43413&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="112" tvg-id="09c879c75e702531e9ece5967265549f" tvg-name="TM: News Tamil 24x7" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: News Tamil 24x7
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427778.ts?channelId=132369&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="108" tvg-id="390e0cd2520cb3353f83e03523765146" tvg-name="TM: News 7 Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vY2UyNzVlNy5wbmc" group-title="Tamil Local",TM: News 7 Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427776.ts?channelId=43413&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="118" tvg-id="3937d1bb52a246e6c6cfcbd2ee0f6c61" tvg-name="TM: Peppers TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vMmVjNmI0Yy5wbmc" group-title="Tamil Local",TM: Peppers TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427781.ts?channelId=23125&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="126" tvg-id="f7dd87c38c38b507b3b4490359d2ab03" tvg-name="TM: Puthiya Thalaimurai TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vODc5NDU1MC5wbmc" group-title="Tamil Local",TM: Puthiya Thalaimurai TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427785.ts?channelId=43414&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="160" tvg-id="26781a64df96d58afbc312527e0b76a6" tvg-name="TM: Star Sports 1 Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2ltYWdlcy9zdGFyc3BvcnRzMXRhbWlsLnBuZw" group-title="Tamil Local",TM: Star Sports 1 Tamil FHD
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427803.ts?channelId=89820&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 tvg-chno="159" tvg-id="4f33d345277c2facf9b5629b29788905" tvg-name="TM: Sonic Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: Sonic Tamil
-http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427802.ts?channelId=89864&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="153" tvg-id="eea18746450d9b516bceb2d4ad5d3516" tvg-name="TM: Seithigal TV" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3VqbS5mcm9tLWluLmNvbS9wYW5lbC9pbWFnZWljb24vNzIyNDE4OC5wbmc" group-title="Tamil Local",TM: Seithigal TV
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427799.ts?channelId=43418&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="159" tvg-id="4f33d345277c2facf9b5629b29788905" tvg-name="TM: Sonic Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: Sonic Tamil
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427802.ts?channelId=89864&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 tvg-chno="160" tvg-id="26781a64df96d58afbc312527e0b76a6" tvg-name="TM: Star Sports 1 Tamil FHD" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2ltYWdlcy9zdGFyc3BvcnRzMXRhbWlsLnBuZw" group-title="Tamil Local",TM: Star Sports 1 Tamil FHD
+http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427803.ts?channelId=89820&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="170" tvg-id="5a5de3e56df9fcc595ef2b482c4a04ee" tvg-name="TM: Tamilan Television" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: Tamilan Television
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427813.ts?channelId=89867&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 tvg-chno="171" tvg-id="effb08e8fe3bb1e172af1de4d6f8b3a5" tvg-name="TM: Tata Play Toons+ Tamil" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3R2LnRhbWlsd2ViY2FzdC5jb20vcGxhY2Vob2xkZXIucG5n" group-title="Tamil Local",TM: Tata Play Toons+ Tamil
@@ -229,78 +245,80 @@ http://88.212.15.19/live/test_black/playlist.m3u8
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk@ChannelIslands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Channel Islands (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One East (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One East (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@EastMidlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One East Midlands (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One East (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@EastMidlandsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One East Midlands (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One London (720p) [Geo-blocked]
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbriaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One North East (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One North East (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Northern Ireland HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk@NorthWestHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One North West (1080p) (HEVC) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthWest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One North West (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One North East (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Northern Ireland HD (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Scotland HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthWestHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One North West (1080p) (HEVC) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Northern Ireland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One South (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Scotland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@SouthEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One South East (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@SouthWest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One South West (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Wales (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" group-title="English Movies",BBC Parliament (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Yorks (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One West (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One West Midlands (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="English Movies",BBC One Yorks (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" group-title="English Movies",BBC Parliament (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="AXNCEE.es@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="English Movies",AXN CEE
+http://46.149.191.217:9009/play/a02d
+#EXTINF:-1 tvg-id="BBCRedButton4.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 4 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton3.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 3 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton2.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 2 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton4.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 4 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton5.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 5 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton7.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 7 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton6.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 6 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton8.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 8 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton9.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 9 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton11.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 11 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton8.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 8 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton6.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 6 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton10.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 10 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton12.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 12 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton11.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 11 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton13.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 13 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton12.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 12 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton14.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 14 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton17.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 17 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton15.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 15 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton16.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 16 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton15.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 15 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton17.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 17 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton18.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 18 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton19.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 19 (720p) [Geo-blocked]
@@ -309,38 +327,40 @@ https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_str
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton21.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 21 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton24.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 24 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton22.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 22 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCRedButton23.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 23 (720p) [Geo-blocked]
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCRedButton24.uk@SD" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="English Movies",BBC Red Button 24 (720p) [Geo-blocked]
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="English Movies",BBC Three HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCScotland.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="English Movies",BBC Scotland HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English Movies",BBC Two Northern Ireland HD (720p) [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English Movies",BBC Two Wales (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English Movies",BBC Two Northern Ireland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="CBBC.uk@SD" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="English Movies",CBBC HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="ColorsInfinity.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="English Movies",Colors Infinity (576p)
 http://103.175.73.12:8080/live/29/29_0.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="English Movies",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-id="FilmBoxPremium.nl@Adria" tvg-logo="https://i.imgur.com/RydfsE9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="English Movies",FilmBox+ Hits Adria
-https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="English Movies",Disney Channel (576p)
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorMENA.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="English Movies",Disney Junior MENA (576p)
+http://116.90.120.157:8000/play/a0qo/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="English Movies",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="English Movies",Fox (1080p)
-http://91.146.94.234:10001/play/a084
+#EXTINF:-1 tvg-id="FilmBoxPremium.nl@Adria" tvg-logo="https://i.imgur.com/RydfsE9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="English Movies",FilmBox+ Hits Adria
+https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="English Movies",France 24 English (1080p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="English Movies",God Stands Kids Club TV English
-https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk@English" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="English Movies",God Stands TV English
 https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="English Movies",God Stands Kids Club TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 #EXTINF:-1 tvg-id="HITS.sg@SD" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="English Movies",HITS (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 #EXTINF:-1 tvg-id="HITSMovies.sg@HD" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="English Movies",HITS Movies HD (720p)
@@ -353,6 +373,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 #EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="English Movies",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+#EXTINF:-1 tvg-id="" group-title="English Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English HD
+https://ucdn.starhubgo.com/bpk-tv/DW/output/manifest.mpd
 #EXTINF:-1 tvg-chno="48" tvg-id="cf564adbd1748a8556c4e6fc0cb99b2a" tvg-name="TM: Discovery Kids" tvg-logo="http://tv.tamilwebcast.com/logo-proxy/aHR0cDovL3MzLmkzbnMubmV0OjIwNTIvcG9ydGFsL3BpY29uLzIwMjEtMDYvMjQ5YzQ1NDE3M2ZhNjIwNTE0NGFjYjkyYThlNWMyNWUucG5n" group-title="English Movies",TM: Discovery Kids
 http://tv.tamilwebcast.com/live/TWC-FAMILY/TWC-FAMILY/427746.ts?channelId=89865&uid=4710&deviceMac=00:1A:79:83:6F:C5
 

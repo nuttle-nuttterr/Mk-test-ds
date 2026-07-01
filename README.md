@@ -1,22 +1,22 @@
 # 📺 Tamil & English IPTV (fully validated)
 
-**Updated:** 2026-07-01 14:10:36 UTC
+**Updated:** 2026-07-01 19:40:55 UTC
 
-**Playable channels:** 174
+**Playable channels:** 185
 
 | Category | Channels |
 | --- | --- |
-| Tamil Entertainment | 28 |
+| Tamil Entertainment | 32 |
 | Tamil News | 10 |
-| Tamil Movies | 12 |
-| Tamil Music | 6 |
+| Tamil Movies | 13 |
+| Tamil Music | 7 |
 | Tamil Kids | 5 |
 | Tamil Sports | 0 |
 | Tamil Devotional | 2 |
 | Tamil Infotainment | 0 |
 | Tamil Shopping | 0 |
-| Tamil Local | 41 |
-| English Movies | 66 |
+| Tamil Local | 43 |
+| English Movies | 69 |
 | English News | 4 |
 
 ## Usage
